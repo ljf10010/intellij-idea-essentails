@@ -5,7 +5,7 @@
 * 安装
 * 工作空间的概述
 * IDE 设置
-* Configuration tips and tricks
+* 配置提示及技巧
 
 
 
