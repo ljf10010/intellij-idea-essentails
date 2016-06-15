@@ -6,7 +6,7 @@
 * [第三章 编辑器](chapter3/chapter3.0,md)
 * [第四章 优化之美-重构](chapter4/chapter4.0,md)
 * [第五章 美梦成真-运行你的项目](chapter5/chapter5.0,md)
-* [第六章](chapter6/chapter6.0,md)
+* [第六章 构建你的项目](chapter6/chapter6.0,md)
 * [第七章](chapter7/chapter7.0,md)
 * [第八章](chapter8/chapter8.0,md)
 * [第九章](chapter9/chapter9.0,md)
