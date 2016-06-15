@@ -5,7 +5,7 @@
 * [第二章 走进代码](chapter2/chapter2.0.md)
 * [第三章 编辑器](chapter3/chapter3.0,md)
 * [第四章 优化之美-重构](chapter4/chapter4.0,md)
-* [第五章](chapter3/chapter3.0,md)
+* [第五章 美梦成真-运行你的项目](chapter5/chapter5.0,md)
 * [第三章](chapter3/chapter3.0,md)
 * [第三章](chapter3/chapter3.0,md)
 * [第三章](chapter3/chapter3.0,md)
