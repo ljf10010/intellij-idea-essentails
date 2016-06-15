@@ -10,4 +10,4 @@
 * [第七章 红绿之殇-单元测试](chapter7/chapter7.0,md)
 * [第八章 炼金术-调试器(Debugger)](chapter8/chapter8.0,md)
 * [第九章 团队协同工作](chapter9/chapter9.0,md)
-* [第十章](chapter10/chapter10.0,md)
+* [第十章 不够吗-扩展它](chapter10/chapter10.0,md)
