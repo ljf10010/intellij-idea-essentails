@@ -11,7 +11,7 @@
 ### 不同版本的比较
 IntelliJ IDEA 目前有两个可用的版本，一个是免费的社区版，另一个是全功能的旗舰版。你可以使用它们其中任何一款用作开发你的商用软件，这些都包含它许可访问以内。值得一提的是，新版的 Android Studio(一款用于开发Android 应用的IDE) 也是基于IntelliJ IDEA。
 
-如果你想了解更多的比较细节，请移步到JetBrains 官网：http://www.jetbrains.com/idea/features/editions_comparison_matrix.html
+如果你想了解更多的比较细节，请移步到JetBrains 官网：<code>http://www.jetbrains.com/idea/features/editions_comparison_matrix.html</code>。简而言之，社区版相对于
 
 
 
