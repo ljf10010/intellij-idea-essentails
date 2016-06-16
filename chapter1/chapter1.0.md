@@ -13,5 +13,7 @@ IntelliJ IDEA 目前有两个可用的版本，一个是免费的社区版，另
 
 如果你想了解更多的比较细节，请移步到JetBrains 官网：<code>http://www.jetbrains.com/idea/features/editions_comparison_matrix.html</code>。简而言之，社区版会少很多功能。但是，也可以使用一些小技巧来超限的使用某些没有的功能。例如，当你不想花钱(只能用社区版)，你又使用类似Tomcat或者Jetty之类的 WEB 容器的时候，该怎么办呢？(社区版是没有包含这些功能的)你可以使用 Maven 插件(Tomcat/Jetty)来运行或调试你的 WEB 应用。更多的细节，我们会在第五章《美梦成真-运行你的项目》里重点介绍。如果你想先一睹为快，也可以翻到相关的章节去查阅。
 
+你可以使用社区版里自带的框架(诸如，Play、Struts、Spring等)去开发您的应用。
+
 
 
