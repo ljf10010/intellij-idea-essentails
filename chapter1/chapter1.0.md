@@ -47,7 +47,7 @@ IntelliJ IDEA 的工作空间由主编辑选卡、菜单和一些工具窗口组
 
 ![](1.1.png) 
 
-
+有些工具窗口是一直可用的，例如：<code>**Project**</code>和<code>**Structure**</code>
 
 
 
