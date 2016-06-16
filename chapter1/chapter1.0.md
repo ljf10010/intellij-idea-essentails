@@ -36,6 +36,8 @@ IntelliJ IDEA 的安装非常简单。执行如下步骤就可以了：
 
 安装好后，在第一次启动IntelliJ IDEA时，它会询问你开启缺省的插件，建议仅开启你需要的插件，这样可以提高IDE的运行效率。如果你不知道如何选择，也不必太过于担心。通过编辑IDE的<code>Setting</code>你可以随时启动或关闭。
 
+### 安装 IntelliJ IDEA
+
 
 
 
