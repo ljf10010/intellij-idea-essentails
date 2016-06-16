@@ -29,7 +29,7 @@ IntelliJ IDEA 目前有两个可用的版本，一个是免费的社区版，另
 ### 安装 IntelliJ IDEA
 IntelliJ IDEA 的安装非常简单。执行如下步骤就可以了：
 1. 到IntelliJ IDEA 的官网：<code>http://www.jetbrains.com/idea/download/</code>。
-2. 
+2. 根据自己的需要，选择相应的版本(操作系统和软件版本)。
 
 
 
