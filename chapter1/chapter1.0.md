@@ -11,7 +11,7 @@
 ### 不同版本的比较
 IntelliJ IDEA 目前有两个可用的版本，一个是免费的社区版，另一个是全功能的旗舰版。你可以使用它们其中任何一款用作开发你的商用软件，这些都包含它许可访问以内。值得一提的是，新版的 Android Studio(一款用于开发Android 应用的IDE) 也是基于IntelliJ IDEA。
 
-如果你想了解更多的比较细节，请移步到JetBrains 官网：<code>http://www.jetbrains.com/idea/features/editions_comparison_matrix.html</code>。简而言之，社区版会少很多功能。但是，也可以使用一些小技巧来超限的使用某些没有的功能。例如，当你不想花钱(只能用社区版)，你又使用类似Tomcat或者Jetty之类的 WEB 容器的时候，该怎么办呢？(社区版是没有包含这些功能的)你可以使用 Maven 插件(Tomcat/Jetty)来运行或调试你的 WEB 应用。
+如果你想了解更多的比较细节，请移步到JetBrains 官网：<code>http://www.jetbrains.com/idea/features/editions_comparison_matrix.html</code>。简而言之，社区版会少很多功能。但是，也可以使用一些小技巧来超限的使用某些没有的功能。例如，当你不想花钱(只能用社区版)，你又使用类似Tomcat或者Jetty之类的 WEB 容器的时候，该怎么办呢？(社区版是没有包含这些功能的)你可以使用 Maven 插件(Tomcat/Jetty)来运行或调试你的 WEB 应用。更多的细节，我们会在第五章《美梦成真-运行你的项目》里重点介绍。
 
 
 
