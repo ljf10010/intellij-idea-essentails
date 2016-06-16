@@ -33,6 +33,9 @@ IntelliJ IDEA 的安装非常简单。执行如下步骤就可以了：
 3. 当下载完成后，如，在微软的window上，当你运行安装程序后，会出现安装向导，跟着向导的指引，很轻松的完成安装；在苹果Mac OS上，双击<code>.dmg</code>文件，之后只需将IntelliJ IDEA 拖到<code>Application</code>文件夹中即可。
 
 
+> 当你在已有的电脑上再安装IntelliJ IDEA时，安装向导将会询问你是否导入之前版本中的设置。
+
+
 
 
 
