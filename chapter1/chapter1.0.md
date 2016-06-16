@@ -38,7 +38,7 @@ IntelliJ IDEA 的安装非常简单。执行如下步骤就可以了：
 ### 工作空间概览
 IntelliJ IDEA 的工作空间由主编辑选卡、菜单和一些工具窗口组成。
 
-### 工具窗口(Tool Window)
+### 工具窗口(Tool windows)
 
 
 
