@@ -25,7 +25,6 @@ IntelliJ IDEA 目前有两个可用的版本，一个是免费的社区版，另
 
 > 如果您打算购买旗舰版，建议你可以在一些重大节日(如：圣诞节、复活节等)的时候再下手。因为这个时候，JetBrains 通常会推出一些庆祝类的折扣活动。
 
-
 ### 安装 IntelliJ IDEA
 IntelliJ IDEA 的安装非常简单。执行如下步骤就可以了：
 1. 到IntelliJ IDEA 的官网：<code>http://www.jetbrains.com/idea/download/</code>。
