@@ -60,6 +60,10 @@ IntelliJ IDEA 的工作空间由主编辑选卡、菜单和一些工具窗口组
 ![](1.3.png)
 
 
+### Pinned Mode
+
+
+
 
 
 
