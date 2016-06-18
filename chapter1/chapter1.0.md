@@ -67,11 +67,7 @@ IntelliJ IDEA 的工作空间由主编辑选卡、菜单和一些工具窗口组
 
 ### 浮动模式(Floating Mode)
 
-### 分隔模式(Split Mode
-
-
-
-)
+### 分隔模式(Split Mode)
 
 
 
