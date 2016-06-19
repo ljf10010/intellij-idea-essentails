@@ -113,6 +113,9 @@ Default Layout```操作或按```shift+F12```组合快捷键即可。
 
 ![](1.10.png)
 
+### 编辑器选卡(Editor tabs)
+
+
 
 
 
