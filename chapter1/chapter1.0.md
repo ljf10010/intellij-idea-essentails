@@ -127,6 +127,7 @@ IDEA | Preferences | Editor | Editor tabs (Mac)```。通过上面的设置后，
 > 使用```Ctrol+E(PC)```或```cmd+E(Mac)```可以显示已打开过的列表。使用```Ctrol+Shift+E(PC)```或```cmd+Shift+E(Mac)```可以显示最近编辑的文件列表。你也可以使用```Ctrol+Tab```与```Ctrol+Shift+Tab```进行上述两种模式的相互切换。
 
 ### 制作你的设置(Setting) 
+接下来章节里，我们将讨论关于IDE设置方面的一些主题——
 ### 搜索选项
 ### 设置快捷键
 ### 颜色与字体
