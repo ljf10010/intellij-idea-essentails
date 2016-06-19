@@ -107,6 +107,7 @@ Default Layout```操作或按```shift+F12```组合快捷键即可。
 
 如何设置呢？前提你先到IDEA的仓库中搜索并安装它。按照```Window|Configure Preferred Availabilities```操作路径打开配置对话框。如图所示：
 
+![](1.9.png)
 
 
 
