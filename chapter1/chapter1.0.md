@@ -129,7 +129,7 @@ IDEA | Preferences | Editor | Editor tabs (Mac)```。通过上面的设置后，
 ### 制作你的设置(Setting) 
 接下来章节里，我们将讨论关于IDE设置方面的一些主题——设置快捷键、颜色、字体和插件。
 ### 搜索选项
-使用主菜单```File | Settings(PC)```或```IntelliJ IDEA | Preferences (Mac)```操作路径可以激活设置对话框。你也可以使用工具栏中的扳手小图标或Ctrol+Alt+S(PC)或cmd+,(Mac)快捷键激活。所有的设置可以分为两个大类，
+使用主菜单```File | Settings(PC)```或```IntelliJ IDEA | Preferences (Mac)```操作路径可以激活设置对话框。你也可以使用工具栏中的扳手小图标或Ctrol+Alt+S(PC)或cmd+,(Mac)快捷键激活。所有的设置可以分为两个大类，一类是针对项目的一些设置(如：代码格式、版本控制等)，另外一类是IDE全局设置(如：外观或Http代理)。
 ### 设置快捷键
 ### 颜色与字体
 ### 挑选你的插件(Plugins)
