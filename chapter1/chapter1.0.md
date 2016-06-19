@@ -130,7 +130,7 @@ IDEA | Preferences | Editor | Editor tabs (Mac)```。通过上面的设置后，
 ### 搜索选项
 ### 设置快捷键
 ### 颜色与字体
-### 
+### 挑选你的插件(Plugin)
 
 
 
