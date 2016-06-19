@@ -136,7 +136,7 @@ IntelliJ IDEA 是一个以快捷键为中心的IDE。任何使用鼠标能完成
 
 为了适应你自己的操作习惯，你可能需要重新定义IntelliJ IDEA 的```Keymaps```。快捷键的设置都是在IDE```Setting```中的```Keymap```部分。
 
-IntelliJ IDEA内部预设了很多可用的快捷方案。不管你以前使用的是Eclipse或NetBeans，你都可在这里找到以只对应的通用设置。
+IntelliJ IDEA内部预设了很多可用的快捷方案。不管你以前使用的是Eclipse或NetBeans，你都可在这里找到以只对应的通用设置。但是有一点需要注意，预设的 keymaps是不可编辑的。如果你想修改，需要先拷贝一份，然后才能在拷贝的副本中修改。。。
 ### 颜色与字体
 ### 挑选你的插件(Plugins)
 
