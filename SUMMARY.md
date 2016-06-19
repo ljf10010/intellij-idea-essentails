@@ -1,7 +1,7 @@
-# 目录
+# Summary
 
 * [简介](README.md)
-* [第一章 快速了解你的IDE](chapter1/chapter1.0.md)
+* [第一章 快速熟悉你的IDE](chapter1/chapter1.0.md)
 * [第二章 走进代码](chapter2/chapter2.0.md)
 * [第三章 编辑器](chapter3/chapter3.0,md)
 * [第四章 优化之美-重构](chapter4/chapter4.0,md)
@@ -11,3 +11,4 @@
 * [第八章 炼金术-调试器(Debugger)](chapter8/chapter8.0,md)
 * [第九章 团队协同工作](chapter9/chapter9.0,md)
 * [第十章 还不够吗-扩展它](chapter10/chapter10.0,md)
+
