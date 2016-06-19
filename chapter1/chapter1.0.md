@@ -89,7 +89,8 @@ IntelliJ IDEA 的工作空间由主编辑选卡、菜单和一些工具窗口组
 
 > 译者注：上述的功能，在2015版以后，改成了```Group tabs```,使用这些版本的小伙伴注意了。
 
-当你对工具窗口进行了一些个性化的设置以后，建议你备份一下当前的布局。可以使用主菜单中```Window|Store Current Layout as Default```完成设置的备份。
+当你对工具窗口进行了一些个性化的设置以后，建议你备份一下当前的布局。可以使用主菜单中```Window|Store Current Layout as Default```完成设置的备份。这样，什么时候你想恢复到当前的备份，只需使用主菜单的```Window | Restore
+Default Layout```操作或按```shift+F12```组合快捷键即可。
 
 
                           
