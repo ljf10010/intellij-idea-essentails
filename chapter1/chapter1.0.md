@@ -124,7 +124,7 @@ IDEA | Preferences | Editor | Editor tabs (Mac)```。通过上面的设置后，
 
 另外一种做法是完全关闭选卡功能，咋一听感觉有点怪怪的，但是，当你习惯使用快捷方式去打开文件，选卡对你来说就变得不关紧要了，而且这样还能释放出更多的编辑器空间。
 
-> 使用Ctrol+E(PC)或cmd+E(Mac)可以显示已打开过的列表。使用Ctrol+Shift+E(PC)或cmd+Shift+E(Mac)可以显示最近编辑的文件列表。你也可以使用Ctrol+Tab与Ctrol+Shift+Tab切换上述的两种模式。
+> 使用Ctrol+E(PC)或cmd+E(Mac)可以显示已打开过的列表。使用Ctrol+Shift+E(PC)或cmd+Shift+E(Mac)可以显示最近编辑的文件列表。你也可以使用Ctrol+Tab与Ctrol+Shift+Tab进行上述两种模式的相互切换。
 
 
 
