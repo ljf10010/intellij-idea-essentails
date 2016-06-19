@@ -142,7 +142,7 @@ IntelliJ IDEA内部预设了很多可用的快捷方案。不管你以前使用�
 
 ![](1.13.png)
 
-快捷键编辑器里的```Abbreviation选项```被用于快速全局查找```Search Everything```(双击Shift)。
+快捷键编辑器里的```Abbreviation选项```被用于快速全局查找(双击Shift)。
 ### 颜色与字体
 ### 挑选你的插件(Plugins)
 
