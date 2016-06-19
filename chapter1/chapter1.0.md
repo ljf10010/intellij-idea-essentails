@@ -129,6 +129,9 @@ IDEA | Preferences | Editor | Editor tabs (Mac)```。通过上面的设置后，
 ### 制作你的设置(Setting) 
 ### 搜索选项
 ### 设置快捷键
+### 颜色与字体
+
+
 
 
 
