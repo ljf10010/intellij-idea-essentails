@@ -134,6 +134,8 @@ IDEA | Preferences | Editor | Editor tabs (Mac)```。通过上面的设置后，
 IDE的选项非常多，所幸的是我们可以使用收索栏去检索我们想要的选项。这个检索是动态的，会随着你的输入字符不断的过滤结果。例如，如果你在搜索框中输入一个"typo"时，这里会检索出针对项目设置```Inspection(检查)```和```Editor/Colors & Font/General```两个结果，在```Inspection```设置中，你可以关闭```Spelling/Typo```提示。而在```Colors&Font```部分，你可以设置拼错单词的显示颜色。
 ### 设置快捷键
 IntelliJ IDEA 是一个以快捷键为中心的IDE。任何使用鼠标能完成的动作，用快捷键同样能够做得到。
+
+
 ### 颜色与字体
 ### 挑选你的插件(Plugins)
 
